@@ -22,7 +22,7 @@ I have a degree in control and automation engineering and am passionate about da
 ## Projetos:
 Veja meus projetos:
 
-
+* **Análise de dados do Airbnb em Tóquio:** https://bit.ly/2YqWEKx
 
 ---
 
