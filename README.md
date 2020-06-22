@@ -24,6 +24,7 @@ Veja meus projetos:
 
 * **Análise de dados do Airbnb em Tóquio:** https://bit.ly/2YqWEKx
 * **Análise de dados sobre a violência no estado do Rio de Janeiro:** https://bit.ly/3fEuoLA
+* **Chatbot para automação residencial utilizando framework Rasa: ** https://bit.ly/3fROnGz
 ---
 
 
