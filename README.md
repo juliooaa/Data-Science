@@ -19,8 +19,8 @@ I have a degree in control and automation engineering and am passionate about da
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
-Veja meus projetos:
+## Projects:
+See my projects:
 
 * **Análise de dados do Airbnb em Tóquio:** https://bit.ly/2YqWEKx
 * **Análise de dados sobre a violência no estado do Rio de Janeiro:** https://bit.ly/3fEuoLA
